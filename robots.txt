@@ -1,0 +1,6 @@
+User-agent:*
+disallow:/image
+Sitemap:https://willy94350.github.io/site_panthere/sitemap.xml
+
+User-agent:Googlebot
+disallow:/recherche/
